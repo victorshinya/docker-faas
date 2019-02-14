@@ -3,4 +3,5 @@
 Learn how to use FaaS and OpenFaaS using Docker and Kubernetes.
 
 Follow the examples on this repository:
-- [Docker Function](https://github.com/victorshinya/docker-faas/blob/master/ibm-cloud-functions-docker#README.md)
+- [C-Lang on IBM Cloud Functions](https://github.com/victorshinya/docker-faas/blob/master/c-lang#README.md)
+- [ImageMagick on OpenFaaS](https://github.com/victorshinya/docker-faas/blob/master/imagemagick#README.md)
