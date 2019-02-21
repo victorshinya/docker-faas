@@ -1,10 +1,4 @@
-# IBM Cloud Functions Docker
-
-## Pre-requisites
-
-- Download and install [IBM Cloud CLI](https://cloud.ibm.com/docs/cli/reference/ibmcloud/download_cli.html) and create an account.
-- Download and install [IBM Cloud Functions CLI](https://cloud.ibm.com/openwhisk/learn/cli).
-- Download and install [Docker](https://docker.com) and create an account.
+# Create a C programming language Function using IBM Cloud Functions (on Apache OpenWhisk)
 
 ## Important notes
 

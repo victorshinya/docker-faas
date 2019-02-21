@@ -1,30 +1,4 @@
-# OpenFaas Functions Docker and Kubernetes
-
-## Pre-requisites
-
-- Download and install [Docker](https://docker.com) and create an account.
-- Pull the most recent OpenFaaS images.
-
-```sh
-curl -sSL https://raw.githubusercontent.com/openfaas/faas/master/docker-compose.yml | grep image | awk -F " " '{print $NF}' | xargs -L1 docker pull
-```
-
-- Setup a single-node cluster.
-
-```sh
-docker swarm init
-```
-
-- Create an account on [Docker Hub](https://hub.docker.com/) and log in.
-
-```sh
-docker login
-```
-
-- Download and install [OpenFaaS CLI](https://openfaas.com).
-```sh
-curl -sL cli.openfaas.com | sudo sh
-```
+# Create an ImageMagick functions using OpenFaaS with Docker and Docker Swam
 
 ## How-to
 
