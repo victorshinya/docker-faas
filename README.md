@@ -44,3 +44,9 @@ curl -sL cli.openfaas.com | sudo sh
 Follow both samples in this repository:
 - [Sample C prograaming language on IBM Cloud Functions](https://github.com/victorshinya/docker-faas/blob/master/c-lang#README.md)
 - [ImageMagick service on OpenFaaS](https://github.com/victorshinya/docker-faas/blob/master/imagemagick#README.md)
+
+## License
+
+MIT License
+
+Copyright (c) 2018 Victor Kazuyuki Shinya
